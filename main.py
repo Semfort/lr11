@@ -10,14 +10,33 @@ soup = BeautifulSoup(html, 'html.parser')
 news_data = []
 titles = soup.find_all('span', class_='titleline')
 
-for title in titles:
+subtexts = soup.find_all('td', class_='subtext')
+
+for i, title in enumerate(titles):
     link_tag = title.find('a')
     if link_tag:
+        title_text = link_tag.text
+        url = link_tag['href']
+        
+        comments = 0
+        if i < len(subtexts):
+            comment_link = subtexts[i].find_all('a')[-1]
+            comment_text = comment_link.text
+            comment_text = comment_text.replace('comment', '').replace('s', '').strip()
+            if comment_text.isdigit():
+                comments = int(comment_text)
+            elif comment_text == 'discuss':
+                comments = 0
+                
         news_item = {
-            'title': link_tag.text,
-            'url': link_tag['href']
+            'title': title_text,
+            'url': url,
+            'comments': comments
         }
         news_data.append(news_item)
+        
+        print(f"{i+1}. Title: {title_text}; Comments: {comments};")
+    
 
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(news_data, f, ensure_ascii=False, indent=2)

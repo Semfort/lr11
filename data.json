@@ -1,122 +1,152 @@
 [
   {
     "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
-    "url": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/"
-  },
-  {
-    "title": "Why proteins fold and how GPUs help us fold",
-    "url": "https://aval.bearblog.dev/nvidiaproteins/"
+    "url": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/",
+    "comments": 85
   },
   {
     "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
-    "url": "https://arborium.bearcove.eu/"
+    "url": "https://arborium.bearcove.eu/",
+    "comments": 14
   },
   {
     "title": "Ask HN: What Are You Working On? (December 2025)",
-    "url": "item?id=46264491"
-  },
-  {
-    "title": "Running on Empty: Copper",
-    "url": "https://thehonestsorcerer.substack.com/p/running-on-empty-copper"
-  },
-  {
-    "title": "How well do you know C++ auto type deduction?",
-    "url": "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/"
-  },
-  {
-    "title": "Unscii",
-    "url": "http://viznut.fi/unscii/"
+    "url": "item?id=46264491",
+    "comments": 834
   },
   {
     "title": "The Whole App is a Blob",
-    "url": "https://drobinin.com/posts/the-whole-app-is-a-blob/"
+    "url": "https://drobinin.com/posts/the-whole-app-is-a-blob/",
+    "comments": 20
   },
   {
-    "title": "John Varley has died",
-    "url": "http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html"
-  },
-  {
-    "title": "The Problem of Teaching Physics in Latin America (1963)",
-    "url": "https://calteches.library.caltech.edu/46/2/LatinAmerica.htm"
+    "title": "Unscii",
+    "url": "http://viznut.fi/unscii/",
+    "comments": 3
   },
   {
     "title": "$5 whale listening hydrophone making workshop",
-    "url": "https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/"
+    "url": "https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/",
+    "comments": 4
   },
   {
-    "title": "CapROS: Capability-Based Reliable Operating System",
-    "url": "https://www.capros.org/"
+    "title": "How well do you know C++ auto type deduction?",
+    "url": "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/",
+    "comments": 27
   },
   {
-    "title": "Read Something Wonderful",
-    "url": "https://readsomethingwonderful.com/"
+    "title": "John Varley has died",
+    "url": "http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html",
+    "comments": 22
   },
   {
     "title": "Roomba maker goes bankrupt, Chinese owner emerges",
-    "url": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years"
+    "url": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
+    "comments": 112
+  },
+  {
+    "title": "The Problem of Teaching Physics in Latin America (1963)",
+    "url": "https://calteches.library.caltech.edu/46/2/LatinAmerica.htm",
+    "comments": 20
+  },
+  {
+    "title": "CapROS: Capability-Based Reliable Operating System",
+    "url": "https://www.capros.org/",
+    "comments": 29
+  },
+  {
+    "title": "Running on Empty: Copper",
+    "url": "https://thehonestsorcerer.substack.com/p/running-on-empty-copper",
+    "comments": 45
   },
   {
     "title": "If AI replaces workers, should it also pay taxes?",
-    "url": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html"
+    "url": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
+    "comments": 136
+  },
+  {
+    "title": "Read Something Wonderful",
+    "url": "https://readsomethingwonderful.com/",
+    "comments": 17
   },
   {
     "title": "Common Rust Lifetime Misconceptions",
-    "url": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md"
-  },
-  {
-    "title": "Rio de Janeiro's talipot palm trees bloom for the first and only time",
-    "url": "https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02"
-  },
-  {
-    "title": "AI agents are starting to eat SaaS",
-    "url": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
+    "url": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md",
+    "comments": 0
   },
   {
     "title": "The History of Xerox",
-    "url": "https://www.abortretry.fail/p/the-history-of-xerox"
+    "url": "https://www.abortretry.fail/p/the-history-of-xerox",
+    "comments": 1
   },
   {
     "title": "Hashcards: A plain-text spaced repetition system",
-    "url": "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
+    "url": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+    "comments": 145
   },
   {
     "title": "JSDoc is TypeScript",
-    "url": "https://culi.bearblog.dev/jsdoc-is-typescript/"
+    "url": "https://culi.bearblog.dev/jsdoc-is-typescript/",
+    "comments": 189
+  },
+  {
+    "title": "Rio de Janeiro's talipot palm trees bloom for the first and only time",
+    "url": "https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02",
+    "comments": 36
+  },
+  {
+    "title": "A trip through the Graphics Pipeline (2011)",
+    "url": "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/",
+    "comments": 0
+  },
+  {
+    "title": "Rob Reiner has died",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/",
+    "comments": 23
   },
   {
     "title": "Elevated errors across many models",
-    "url": "https://status.claude.com/incidents/9g6qpr72ttbr"
+    "url": "https://status.claude.com/incidents/9g6qpr72ttbr",
+    "comments": 141
   },
   {
-    "title": "An attempt to articulate Forth's practical strengths and eternal usefulness",
-    "url": "https://im-just-lee.ing/forth-why-cb234c03.txt"
+    "title": "AI agents are starting to eat SaaS",
+    "url": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
+    "comments": 136
   },
   {
     "title": "In the Beginning was the Command Line (1999)",
-    "url": "https://web.stanford.edu/class/cs81n/command.txt"
+    "url": "https://web.stanford.edu/class/cs81n/command.txt",
+    "comments": 65
   },
   {
-    "title": "History of Declarative Programming (2021)",
-    "url": "https://shenlanguage.org/TBoS/tbos_15.html"
+    "title": "An attempt to articulate Forth's practical strengths and eternal usefulness",
+    "url": "https://im-just-lee.ing/forth-why-cb234c03.txt",
+    "comments": 30
+  },
+  {
+    "title": "Why proteins fold and how GPUs help us fold",
+    "url": "https://aval.bearblog.dev/nvidiaproteins/",
+    "comments": 26
   },
   {
     "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted",
-    "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted"
+    "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
+    "comments": 138
   },
   {
-    "title": "SoundCloud just banned VPN access",
-    "url": "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/"
+    "title": "History of Declarative Programming (2021)",
+    "url": "https://shenlanguage.org/TBoS/tbos_15.html",
+    "comments": 16
   },
   {
     "title": "Price of a bot army revealed across online platforms",
-    "url": "https://www.cam.ac.uk/stories/price-bot-army-global-index"
+    "url": "https://www.cam.ac.uk/stories/price-bot-army-global-index",
+    "comments": 58
   },
   {
     "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
-    "url": "https://trigger.dev/blog/shai-hulud-postmortem"
-  },
-  {
-    "title": "Developing a food-safe finish for my wooden spoons",
-    "url": "https://alinpanaitiu.com/blog/developing-hardwax-oil/"
+    "url": "https://trigger.dev/blog/shai-hulud-postmortem",
+    "comments": 141
   }
 ]
